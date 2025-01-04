@@ -154,6 +154,9 @@ footer .social-links a:hover {
     
     
 }
+.about-text{
+    font-size: 1.2em;
+}
 
 .project-card-body {
     padding: 0 20px;
