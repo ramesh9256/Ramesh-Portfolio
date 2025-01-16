@@ -196,7 +196,7 @@
 
   .about-heading {
     -webkit-animation: bounce-top 0.9s both;
-    animation: bounce-top 2s both infinite;
+    animation: bounce-top 2s both static;
   }
   @-webkit-keyframes bounce-top {
     0% {
